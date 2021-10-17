@@ -1,0 +1,10 @@
+.movie {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.img {
+  height: 200px;
+  width: auto;
+}
